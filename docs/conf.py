@@ -21,9 +21,9 @@ sys.path.insert(0, os.path.abspath("../src"))
 
 # -- Project information -----------------------------------------------------
 
-project = "Cleanpython"
-copyright = "2022, iacopy"
-author = "iacopy"
+project = "SiteLinter"
+copyright = "2022, iacopo"
+author = "iacopo"
 
 # The short X.Y version
 version = "0.1"
